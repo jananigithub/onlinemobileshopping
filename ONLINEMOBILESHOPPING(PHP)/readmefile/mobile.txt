@@ -1,0 +1,7 @@
+Online Mobile Shopping(Simulator):
+
+Project Description:
+ 
+           Technologies	:           PHP,HTML,MYSQL
+           Description  :	This project is developed for users to shop mobiles online .They can shop mobiles by colour,company and price.They can make wishlists which can be retrieved .They can make orders.
+
